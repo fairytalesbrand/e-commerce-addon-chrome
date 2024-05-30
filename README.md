@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> E-Commerce Add-on Chrome Browser</h>
+<h1 align="center"> Electronic-Commerce Add-on Chrome Browser</h>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-Apache%202.0-blue.svg">
