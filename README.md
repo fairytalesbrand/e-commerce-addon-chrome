@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="" alt="Add-on Chrome Browser Logo" width="250">
-</p>
+
 
 <h1 align="center"> E-Commerce Add-on Chrome Browser</h>
 
